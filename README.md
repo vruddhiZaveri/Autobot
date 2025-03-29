@@ -14,7 +14,7 @@ This project is a versatile Arduino-based AutoBot platform, designed to explore 
 * **Smart Parking System:** Detects the presence of a vehicle in a parking space using an ultrasonic sensor and displays the parking status.
 * **Visitor Counter:** Counts the number of people passing through a doorway using an IR sensor.
 * **Voice Control Bot:** Responds to voice commands received via Bluetooth to control the robot's actions.
-* **Weather Indicator:** Displays weather information (temperature, humidity) using a DHT11/DHT22 sensor.
+* **Weather Indicator:** Displays weather information (temperature, humidity) using a LM35 sensor.
 
 ## Sensors Used ⚡
 
