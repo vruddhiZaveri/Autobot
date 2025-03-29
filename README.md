@@ -55,4 +55,4 @@ This project is a versatile Arduino-based AutoBot platform, designed to explore 
 
 ## Author 🏆
 
-* [vruddhiZaveri](https://github.com/vruddhiZaveri)
+* [VruddhiZaveri](https://github.com/vruddhiZaveri)
