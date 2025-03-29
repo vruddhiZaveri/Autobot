@@ -20,8 +20,8 @@ This project is a versatile Arduino-based AutoBot platform, designed to explore 
 
 * **HC-05 Bluetooth Module:** For wireless communication and control.
 * **Ultrasonic Sensors (HC-SR04):** For distance measurement, used in obstacle avoidance, human following, smart dustbin, and smart parking.
-* **Line Following Sensors (Using IR Reflective Sensors):** For line detection.
-* **Infrared (IR) Sensors:** For object detection and counting, used in the visitor counter.
+* 
+* **Infrared (IR) & PIR Sensors:** For object detection and counting, used in the visitor counter.
 * **LM35 Sensor:** For temperature and humidity measurement, used in the weather indicator.
 * **Buzzer:** For audio alerts in the morning alarm.
 
@@ -43,7 +43,7 @@ This project is a versatile Arduino-based AutoBot platform, designed to explore 
 ## Software 👩🏻‍💻
 
 * Arduino IDE
-* Language:c++
+* Language: c++
 
 ## Future Enhancements ✨
 
